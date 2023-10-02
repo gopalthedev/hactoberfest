@@ -23,4 +23,12 @@
     "actors": ["Actor M", "Actor N", "Actor O"],
     "plot": "Plot summary for Movie 3."
   }
+  {
+    "title": "Movie 4",
+    "year": 2021,
+    "genre": "Drama",
+    "director": "Director 3",
+    "actors": ["Actor M", "Actor N", "Actor O"],
+    "plot": "Plot summary for Movie 3."
+  }
 ]
